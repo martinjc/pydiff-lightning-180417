@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinjc/pydiff-talk-180417.git",
-    "remote": "git@github.com:martinjc/pydiff-talk-180417.git"
+    "url": "git+https://github.com/martinjc/pydiff-lightning-180417.git",
+    "remote": "git@github.com:martinjc/pydiff-lightning-180417.git"
   },
   "author": "Martin Chorley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/martinjc/pydiff-talk-180417/issues"
+    "url": "https://github.com/martinjc/pydiff-lightning-180417/issues"
   },
-  "homepage": "https://github.com/martinjc/pydiff-talk-180417#readme",
+  "homepage": "https://github.com/martinjc/pydiff-lightning-180417#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-autoprefixer": "^3.0.4",

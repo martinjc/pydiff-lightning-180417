@@ -1,4 +1,4 @@
-title: Tweeting and the NAW
+title: Text to Speech and Watson
 email: chorleymj@cf.ac.uk
 description: > #
         My lightning talk for the PyDiff on 18th April 2017
@@ -16,7 +16,7 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/pydiff-talk-180417"
+baseurl: "/pydiff-lightning-180417"
 
 # Slides as a collection
 collections:
@@ -32,5 +32,5 @@ twitter_username: martinjc
 github_username:  martinjc
 author: "Martin Chorley"
 
-github_repository_url: "martinjc/pydiff-talk-180417"
-github_repository_name: pydiff-talk-180417
+github_repository_url: "martinjc/pydiff-lightning-180417"
+github_repository_name: pydiff-lightning-180417

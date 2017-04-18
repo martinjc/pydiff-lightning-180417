@@ -316,7 +316,7 @@ module.exports = function(grunt) {
             dist: {
                 options: {
                     dir: '<%= app.dist %>/<%= app.baseurl %>',
-                    remote: 'git@github.com:martinjc/pydiff-talk-180417.git',
+                    remote: 'git@github.com:martinjc/pydiff-lightning-180417.git',
                     branch: 'gh-pages',
                     commit: true,
                     push: true,
