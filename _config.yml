@@ -1,0 +1,36 @@
+title: Tweeting and the NAW
+email: chorleymj@cf.ac.uk
+description: > #
+        My lightning talk for the PyDiff on 18th April 2017
+
+
+# Grunt handles images and assets.
+exclude: ['img', 'css', 'js', 'fonts',
+          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+
+# _config.build.yml sets future and show_drafts to false on `grunt build`
+future: true
+show_drafts: true
+
+# Markdown library
+markdown: kramdown
+
+# Site settings
+baseurl: "/pydiff-talk-180417"
+
+# Slides as a collection
+collections:
+   slides:
+      output: true
+
+
+# Varibles
+sitename: ""
+
+url: "https://martinjc.github.io" # the base hostname & protocol for your site
+twitter_username: martinjc
+github_username:  martinjc
+author: "Martin Chorley"
+
+github_repository_url: "martinjc/pydiff-talk-180417"
+github_repository_name: pydiff-talk-180417
